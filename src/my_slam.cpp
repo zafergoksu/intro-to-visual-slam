@@ -5,7 +5,7 @@ namespace my_slam
 
 std::string greeting()
 {
-    return "Hello from my_slam!";
+    return "Hello World from my_slam!";
 }
 
 }  // namespace my_slam
