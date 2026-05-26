@@ -4,5 +4,5 @@
 
 TEST(Greeting, IsNotEmpty)
 {
-    EXPECT_TRUE(my_slam::greeting().empty());
+    EXPECT_FALSE(my_slam::greeting().empty());
 }
